@@ -16,7 +16,7 @@ Grupo 06 - Disciplina de Sistemas Distribuídos da UTFPR (2024/2), ministrada pe
   - Executar CVSequencial
 
 - # Caminho até a execução do código resolvendo pelo sistema paralelo:
-  - C:\Users\eniog\OneDrive\Documentos\ProgDistribuida_20242-final\src\main\java\Sequencial_Paralelo
+  - \ProgDistribuida_20242-final\src\main\java\Sequencial_Paralelo
   - Executar CaixeiroViajanteParalelo
  
      
