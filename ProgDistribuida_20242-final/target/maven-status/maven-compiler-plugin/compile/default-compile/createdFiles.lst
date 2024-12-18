@@ -1,0 +1,5 @@
+Distribuido\TSPServer.class
+Sequencial_Paralelo\CaixeiroViajanteParalelo.class
+Distribuido\TSPService.class
+Sequencial_Paralelo\CVSequencial.class
+Distribuido\TSPClient.class
