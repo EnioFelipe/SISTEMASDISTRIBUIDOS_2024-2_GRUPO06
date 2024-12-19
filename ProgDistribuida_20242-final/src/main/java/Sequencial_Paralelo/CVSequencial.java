@@ -97,11 +97,7 @@ public class CVSequencial {
             {0, 40, 10, 60},
             {50, 0, 30, 20},
             {20, 60, 0, 50},
-            {30, 20, 80, 0},
-                {0, 40, 10, 60},
-                {50, 0, 30, 20},
-                {20, 60, 0, 50},
-                {30, 20, 80, 0}
+            {30, 20, 80, 0}
         };
 
         CVSequencial caixeiro = new CVSequencial(dist);
