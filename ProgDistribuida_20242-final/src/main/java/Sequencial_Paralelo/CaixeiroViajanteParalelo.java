@@ -113,8 +113,7 @@ public class CaixeiroViajanteParalelo {
             {0, 40, 10, 60},
             {50, 0, 30, 20},
             {20, 60, 0, 50},
-            {30, 20, 80, 0},
-            {10, 20, 0, 30}
+            {30, 20, 80, 0}
         };
 
         CaixeiroViajanteParalelo tsp = new CaixeiroViajanteParalelo(matrizDistancias);
